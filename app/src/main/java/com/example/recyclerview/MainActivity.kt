@@ -40,8 +40,7 @@ private fun dummyData(): MutableList<User> {
     userList.add(User("Michael Kim", "888-888-8888", R.drawable.human))
     userList.add(User("Sarah Lee", "999-999-9999", R.drawable.man))
     userList.add(User("Tom Wilson", "333-333-3333", R.drawable.profile))
-    userList.add(User("Linda Davis", "666-666-6666", R.drawable.woman))
-
+    userList.add(User("Lina Davis", "666-666-6666", R.drawable.woman))
     return userList
 
 }
