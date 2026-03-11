@@ -1,0 +1,15 @@
+# Local SDK configuration
+local.properties
+
+# Build directories
+build/
+app/build/
+*/build/
+.gradle/
+
+# Firebase configuration
+google-services.json
+
+# IDE specific files
+.idea/
+*.iml
